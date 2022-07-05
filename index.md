@@ -10,7 +10,7 @@ Let's use the question are we made of two or three parts to evaluate it?
 Historically we create this framework of one or another and we narrow the possibilities to consider. In this case is very confusing because they both make sense in some verses and both don't make sense in anothers.
 
 ##### Dichotomy (two parts) or Trichotomy (three parts)?
-![[img/part-options.png]]
+![](/img/part-options.png)
 
 What do you believe? Is it important to you to understand? Why?
 
@@ -31,7 +31,7 @@ Let's check these options by what God says
 ##### Mat 10:28
 >Do not fear those who kill the <font class="orange-font">body</font> but are unable to kill the <font class="orange-font">soul</font>; but rather fear Him who is able to destroy both <font class="orange-font">soul</font> and <font class="orange-font">body</font> in hell.
 
-![[img/not-3p.png]]  ![[img/yes-2p.png]]
+![](/img/not-3p.png)  ![](img/yes-2p.png)
 
 These verses point to two parts
 
@@ -39,14 +39,14 @@ These verses point to two parts
 ##### 1 Th 5:23
 >Now may the God of peace Himself sanctify you entirely; and may your <font class="orange-font">spirit and soul and body</font> be preserved complete, without blame at the coming of our Lord Jesus Christ.
 
-![[img/yes-3p.png]]  ![[img/not-2p.png]]
+![](img/yes-3p.png)  ![](/img/not-2p.png)
 This verse clearly points to three parts
 
 
 ##### Heb 4:12
 >For the word of God is living and active and sharper than any two-edged sword, and <font class="orange-font">piercing as far as the division of soul and spirit</font>, of both joints and marrow, and able to judge the thoughts and intentions of the heart
 
-![[img/not-3p.png]] ![[img/not-2p.png]]
+![](img/not-3p.png) ![](img/not-2p.png)
 
 This verse demands that soul and spirit are not clearly divided. You need God's Word to be able to parse them apart. It can not be the option where they are two diffent parts because that would imply no division and it can not be the option where they are just one used intermitently.
 
@@ -55,11 +55,11 @@ Let's use this verse to clarify these separations
 >For the word of God is living and active and sharper than any two-edged sword, and piercing as far as <font class="orange-font">the division of soul and spirit</font>, of <font class="orange-font">both joints and marrow</font>, and able to <font class="orange-font">judge the thoughts and intentions of the heart</font>
 
 As we can see the common relation between these is that one is inside the other. Marrow is inside the joints and intentions of the heart is inside the thoughts. God's Word is so sharper that allows us to discern between what seems to be one.
-![[img/3p-in-2p-explained.png]]
+![](img/3p-in-2p-explained.png)
 Based on this text we can read that the spirit is part of the soul like the marrow is part of the joint. You can have a bone without marrow and it would be dead.
 
 Let's validate this option with the verses we mentioned before and other verses:
-![[img/3p-in-2p.png]]
+![](img/3p-in-2p.png)
 
 ##### Psalm 31:9
 >My eye is wasted away from grief, my <font class="orange-font">soul</font> and my <font class="orange-font">body</font> also.
