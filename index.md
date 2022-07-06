@@ -1,23 +1,17 @@
 # In The Beginning
-[What happened to us when Adam sinned](InTheBeginning/0100%20What%20happened%20to%20us%20when%20Adam%20sinned.md)
-
-[What happened to us when Adam sinned](/InTheBeginning/0100%20What%20happened%20to%20us%20when%20Adam%20sinned.md)
-
-[What happened to us when Adam sinned](InTheBeginning/0100 What happened to us when Adam sinned.md)
-
 [What happened to us when Adam sinned](/InTheBeginning/0100 What happened to us when Adam sinned.md)
+[What happened to us when Adam sinned no directory](/InTheBeginning/0100 What happened to us when Adam sinned.md)
 
+[How did God resolve the cursed inheritance](0120 How did God resolve the cursed inheritance.md)
 
-[How did God resolve the cursed inheritance](/InTheBeginning/0120%20How%20did%20God%20resolve%20the%20cursed%20inheritance.md)
+[Do we read and understand anything other than what is written](/InTheBeginning/0140 Do we read and understand anything other than what is written.md)
 
-[Do we read and understand anything other than what is written](/InTheBeginning/0140%20Do%20we%20read%20and%20understand%20anything%20other%20than%20what%20is%20written.md)
-
-[How to discern between good and evil](/InTheBeginning/0160%20How%20to%20discern%20between%20good%20and%20evil.md)
+[How to discern between good and evil](/InTheBeginning/0160 How to discern between good and evil.md)
 
 
 
 # Bible
-[Principles on how to study the Bible](/Bible/Principles%20on%20how%20to%20study%20the%20Bible.md)
+[Principles on how to study the Bible](/Bible/Principles on how to study the Bible.md)
 
 
 
