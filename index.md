@@ -1,7 +1,10 @@
 # In The Beginning
 [What happened to us when Adam sinned](InTheBeginning/0100%20What%20happened%20to%20us%20when%20Adam%20sinned.md)
+
 [What happened to us when Adam sinned](/InTheBeginning/0100%20What%20happened%20to%20us%20when%20Adam%20sinned.md)
+
 [What happened to us when Adam sinned](InTheBeginning/0100 What happened to us when Adam sinned.md)
+
 [What happened to us when Adam sinned](/InTheBeginning/0100 What happened to us when Adam sinned.md)
 
 
