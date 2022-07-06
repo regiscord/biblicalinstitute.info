@@ -43,6 +43,7 @@ These verses point to two parts
 >Now may the God of peace Himself sanctify you entirely; and may your <font color="orange">spirit and soul and body</font> be preserved complete, without blame at the coming of our Lord Jesus Christ.
 
 ![](/img/yes-3p.png)  ![](/img/not-2p.png)
+
 This verse clearly points to three parts
 
 
