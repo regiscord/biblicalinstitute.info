@@ -1,4 +1,4 @@
-[Back to home](index.md)
+[Back to home](./../index.md)
 
 # Principles on how to study the Bible
 
@@ -23,4 +23,4 @@ Knowledge of Self
 Truth, discernment, understanding, knowledge of God, wisdom, love, faith and more are fruits of the Spirit and not our efforts or intelligence
 
 
-[Back to home](index.md)
+[Back to home](./../index.md)
