@@ -1,4 +1,4 @@
-[Back to home](/index.md)
+[Back to home](index.md)
 
 # Do we read and understand anything other than what is written?
 
@@ -156,4 +156,4 @@ Let's make sure we seek God on helping us on how to study His Word. Being carefu
 To believe in God is to believe in His Word. You can't disbelieve His Word and believe in Him at the same time. But this is for another time.
 
 
-[Back to home](/index.md)
+[Back to home](index.md)

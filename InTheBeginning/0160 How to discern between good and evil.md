@@ -1,4 +1,4 @@
-[Back to home](/index.md)
+[Back to home](index.md)
 
 # How to discern between good and evil
 
@@ -70,4 +70,4 @@ Let's ask Him! Let's seek Him! Let's know Him! Let's submit to Him!
 >But <font color="orange">seek first</font> His kingdom and His righteousness, and <font color="orange">all these things will be added to you</font>.
 
 
-[Back to home](/index.md)
+[Back to home](index.md)

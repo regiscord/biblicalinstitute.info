@@ -1,4 +1,4 @@
-[Back to home](./../index.md)
+[Back to home](index.md)
 
 # Principles on how to study the Bible
 
