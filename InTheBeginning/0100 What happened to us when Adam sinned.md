@@ -1,4 +1,4 @@
-[Back to list](index.md)
+[Back to home](/index.md)
 
 # What happened to us when Adam sinned?
 
@@ -63,7 +63,7 @@ Fear*
 ##### Genesis 3:22-24
 >22 Then the LORD God said, “Behold, the man has become like one of Us, knowing good and evil; and now, he might stretch out his hand, and <font color="orange">take also from the tree of life, and eat, and live forever</font>”— 23 therefore the LORD God sent him out from the garden of Eden, to cultivate the ground from which he was taken. 24 So He drove the man out; and at the east of the garden of Eden <font color="orange">He stationed the cherubim and the flaming sword</font> which turned every direction <font color="orange">to guard the way to the tree of life</font>.
 
-***Physical death** happened later because they lost access to the tree of life.
+**Physical death** *happened later because they lost access to the tree of life.
 They could live forever after their disobedience.
 Death came in but they died later is different of in the day they ate they surely died.*
 
@@ -104,5 +104,4 @@ We don’t trust (have faith) in what He says.
 We don’t accept what God says or His will.*
 
 
-[Back to list](index.md)
-
+[Back to home](/index.md)
