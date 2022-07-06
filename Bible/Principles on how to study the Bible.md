@@ -1,6 +1,9 @@
 [Back to home](./../index.md)
 
 # Principles on how to study the Bible
+
+Biblical Principles to Study the Bible
+
 - The correct seeking, hearing, understanding, application and teaching of scriptures is dependent on the Holy Spirit.
 - It is impossible to separate the Bible and the God who wrote it  
     - Disagreeing with the Bible is disagreeing with God
@@ -16,6 +19,7 @@
 
 
 # Characteristics of the Bible
+
 Truthful
 Inspired
 Infallible
@@ -30,10 +34,9 @@ Purposeful
 Knowable
 Understandable
 Revealed by God
-
-
 Knowledge of God
 Knowledge of Self
+
 
 Truth, discernment, understanding, knowledge of God, wisdom, love, faith and more are fruits of the Spirit and not our efforts or intelligence
 
