@@ -35,22 +35,22 @@ From the man who speaks perverse things;
 
 
 
-![](/InTheBeginning/img/fear-of-the-Lord.png)
+![](./img/fear-of-the-Lord.png)
 
 
-![](/InTheBeginning/img/wisdom-graph.png)
+![](./img/wisdom-graph.png)
 
 
 ### What happened to the wisest man?
 ##### Ecclesiastes 2
 
-![](/InTheBeginning/img/wisdom-ecclesiastes.png)
-![](/InTheBeginning/img/wisdom-vanity.png)
+![](./img/wisdom-ecclesiastes.png)
+![](./img/wisdom-vanity.png)
 
 
 The answer is in the text before.
 
-![](/InTheBeginning/img/solomon-for-myself.png)
+![](./img/solomon-for-myself.png)
 
 Solomon's riches, wisdom, power and all material good were not enough to satisfy him. Why? Because he was living all to himself and not to God. Let's not end as Solomon, let's live for God! 
 
