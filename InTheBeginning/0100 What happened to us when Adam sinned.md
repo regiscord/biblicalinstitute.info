@@ -1,4 +1,4 @@
-[Back to home](index.md)
+[Back to home](./../index.md)
 
 # What happened to us when Adam sinned?
 
@@ -104,4 +104,4 @@ We don’t trust (have faith) in what He says.
 We don’t accept what God says or His will.*
 
 
-[Back to home](index.md)
+[Back to home](./../index.md)

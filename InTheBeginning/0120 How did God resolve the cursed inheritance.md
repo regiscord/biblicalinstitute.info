@@ -1,4 +1,4 @@
-[Back to home](index.md)
+[Back to home](./../index.md)
 
 # How did God resolve the cursed inheritance?
 
@@ -191,4 +191,4 @@ Is there any place in the Bible that tells us to interpret God’s Word?
 Do we need to know the original language to know what God is revealing? Is it possible to truly access the original languages?
 
 
-[Back to home](index.md)
+[Back to home](./../index.md)
