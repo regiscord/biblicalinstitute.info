@@ -1,8 +1,7 @@
 # In The Beginning
 [What happened to us when Adam sinned](/InTheBeginning/0100 What happened to us when Adam sinned.md)
-[What happened to us when Adam sinned no directory](0100 What happened to us when Adam sinned.md)
 
-[How did God resolve the cursed inheritance](0120 How did God resolve the cursed inheritance.md)
+[How did God resolve the cursed inheritance](/InTheBeginning/0120 How did God resolve the cursed inheritance.md)
 
 [Do we read and understand anything other than what is written](/InTheBeginning/0140 Do we read and understand anything other than what is written.md)
 
