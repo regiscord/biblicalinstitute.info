@@ -1,6 +1,6 @@
-# What happened to us when Adam sinned?
-
 [Back to list](index.md)
+
+# What happened to us when Adam sinned?
 
 ##### Genesis 2:9
 >9 Out of the ground the LORD God caused to grow every tree that is pleasing to the sight and good for food; the <font color="orange">tree of life</font> also in the midst of the garden, and the <font color="orange">tree of the knowledge of good and evil</font>.

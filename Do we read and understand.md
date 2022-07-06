@@ -1,6 +1,6 @@
-# Do we read and understand anything other than what is written?
-
 [Back to list](index.md)
+
+# Do we read and understand anything other than what is written?
 
 ##### 2 Cor 1:13
 >For we are <font color="orange">not writing to you anything other than what you read and understand</font> and I hope you will fully understand
