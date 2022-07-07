@@ -1,5 +1,10 @@
+# Good News
+We are dead in our transgressions
+Jesus saves us and gives us a new life with rest and peace with God
+
+
 # In The Beginning
-[What happened to us when Adam sinned](/InTheBeginning/0100 What happened to us when Adam sinned.md)
+[What happened to us because Adam sinned](/InTheBeginning/0100 What happened to us because Adam sinned.md)
 
 [How did God resolve the cursed inheritance](/InTheBeginning/0120 How did God resolve the cursed inheritance.md)
 

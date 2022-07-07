@@ -3,13 +3,14 @@
 # Do we read and understand anything other than what is written?
 
 ##### 2 Cor 1:13
->For we are <font color="orange">not writing to you anything other than what you read and understand</font> and I hope you will fully understand
+>For we are <font color="orange">not writing to you anything other than what you read and understand</font> and I hope you will fully understand, and I hope <font color="orange">you will understand</font> until the end;
 
-Do we add and remove from God's Word?
-Do we read and understand anything other than what is written?
+- Do we add and remove from God's Word?
+- Do we read and understand anything other than what is written?
 
-Let's use the question: are we made of two or three parts to evaluate it?
-Historically we create this framework of one or another and we narrow the possibilities to consider. In this case is very confusing because they both make sense for some verses and both don't make sense in others.
+Let's use the question: Are we made of two or three parts to evaluate it?
+
+Historically man creates frameworks to "help" in the process of understanding the Bible. In this case, the framework is two or three parts. Looking at man's thinking and not God's, we narrow the possibilities to consider. Again in this case, is very confusing because they both make sense for some verses and both don't make sense in others.
 
 ### Dichotomy (two parts) or Trichotomy (three parts)?
 ![](./img/part-options.png)
@@ -17,13 +18,15 @@ Historically we create this framework of one or another and we narrow the possib
 What do you believe? Is it important to you to understand? Why?
 
 *The answer is both and neither - so the answer may be something else
-Confusing because we are not going to the Word alone
-Important? Not that important?*
 
-Let's use God's Word alone and forget what man says (history and tradition) or what we think
+It is confusing because we are not going to the Word alone. The final result is that we can't find the answer.
 
-Let's check these options by what God says
+Is this question important? Or not that important?*
 
+Let's use God's Word alone and forget what man says (history and tradition) or what we think and see if we can find an answer.
+
+#### Verses Evaluation
+Let's looks these verses to see what God says
 
 ##### Psalm 31:9
 >My eye is wasted away from grief, my <font color="orange">soul</font> and my <font color="orange">body</font> also.
@@ -33,7 +36,7 @@ Let's check these options by what God says
 
  ![](./img/not-3p.png)  ![](./img/yes-2p.png)
 
-These verses point to two parts
+*These verses point to two parts*
 
 
 ##### 1 Th 5:23
@@ -41,7 +44,7 @@ These verses point to two parts
 
 ![](./img/yes-3p.png)  ![](./img/not-2p.png)
 
-This verse clearly points to three parts
+*This verse clearly points to three parts*
 
 
 ##### Heb 4:12
@@ -49,18 +52,20 @@ This verse clearly points to three parts
 
 ![](./img/not-3p.png)  ![](./img/not-2p.png)
 
-This verse demands that soul and spirit are not clearly divided. You need God's Word to be able to parse them apart. It can not be the option where they are two distinct parts because that would imply no division and it can not be the option where they are just one used intermittently either.
+*This verse demands that soul and spirit are not clearly distinct, you need God's Word to be able to parse them apart. It can not be the option where they are two separate parts because that would imply no division. So it can not be they are to separate parts. In the same way, it can not be the option where they are just one used intermittently either. This verse doesn't make sense to either of these options.*
 
 
 Let's use this verse to clarify these separations
 
 >For the word of God is living and active and sharper than any two-edged sword, and piercing as far as <font color="orange">the division of soul and spirit</font>, of <font color="orange">both joints and marrow</font>, and able to <font color="orange">judge the thoughts and intentions of the heart</font>
 
-As we can see the common relation between these is that one is inside the other. Marrow is inside the joints and intentions of the heart is inside the thoughts. God's Word is so sharper that allows us to discern between what seems to be one.
+*As we can see the common relation is that one is inside the other. No big insight, just clearly written. Marrow is inside the joints and intentions of the heart is inside the thoughts. God's Word is so sharper that allows us to discern between what seems to be one.*
+
 ![](./img/3p-in-2p-explained.png)
 Based on this text we can read that the spirit is part of the soul like the marrow is part of the joint. You can have a bone without marrow and it would be dead.
 
-Let's validate this option with the verses we mentioned before and other verses:
+#### Let's validate this option with the verses we mentioned before and others more to see if it makes sense:
+
 ![](./img/3p-in-2p.png)
 
 ##### Psalm 31:9
@@ -149,11 +154,16 @@ Who do you believe? God or the serpent?
 
 
 ### Conclusion
-We should focus in read and understand. If we lack understanding let's ask God. Creating a method to make sense of the Bible doesn't help but adds to it. We will study in detail how to get understanding, discernment, wisdom, knowledge of God. As a preview you can look at Prov 2.
+We can clearly understand the new birth Jesus talked about. It was a spiritual birth, necessary because of the spiritual death. We can clearly understand the new spirit God promised. Salvation becomes very clear when we understand what happened to Adam and consequently to us when we read and understand what is written.
 
+We can see very clear too that what God told Adam happened in the same day, surely.
+
+To believe in God is to believe in His Word. To believe in God's Word is to believe in Him. You can't believe in God and disbelieve His Word at the same time. They are inseparable.
+
+We should focus in reading and understanding. If we lack understanding let's ask God. 
 Let's make sure we seek God on helping us on how to study His Word. Being careful to not add or remove and to read and understand what is plainly written.
 
-To believe in God is to believe in His Word. You can't disbelieve His Word and believe in Him at the same time. But this is for another time.
+Creating a method to make sense of the Bible doesn't help but just adds to it. We will study in detail how to get understanding, discernment, wisdom, knowledge of God. As a preview you can look at Prov 2.
 
 
 [Back to home](./../index.md)

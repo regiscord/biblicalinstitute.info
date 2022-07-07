@@ -2,10 +2,18 @@
 
 # How to discern between good and evil
 
+### The clear problem
+
 1 Kings 3:9-14
  >9 So <font color="orange">give</font> Your servant an <font color="orange">understanding heart to judge</font> Your people <font color="orange">to discern between good and evil</font>. For who is able to judge this great people of Yours?”
   10 It was pleasing in the sight of the Lord that Solomon had asked this thing. 11 God said to him, “Because you have asked this thing and have not asked for yourself long life, nor have asked riches for yourself, nor have you asked for the life of your enemies, but have asked for yourself <font color="orange">discernment to understand justice</font>, 12 behold, I have done according to your words. Behold, <font color="orange">I have given you a wise and discerning heart</font>, so that there has been no one like you before you, nor shall one like you arise after you. 13 I have also given you what you have not asked, both riches and honor, so that there will not be any among the kings like you all your days. 14 <font color="orange">If you walk in My ways, keeping My statutes and commandments</font>, as your father David walked, then I will prolong your days.”
 
+Solomon clearly identify our incapacity to discern between good and evil. This ability is not worked out but it is given by God.
+
+A few words become relevant in this request: give, understanding, discernment, justice, wisdom, statutes and commandments.
+
+### The clear solution
+We can see all these words in one verse
 
 Proverbs 2:1-12
 >1 My son, if you will receive <font color="#0070C0">my words</font>
@@ -33,13 +41,15 @@ And <font color="#FCB11C">knowledge</font> will be pleasant to your soul;
 12 To deliver you from the way of evil,
 From the man who speaks perverse things;
 
-
+Another term that shows up in these verses is the fear of the Lord. Here we can see more verses and what they say.
 
 ![](./img/fear-of-the-Lord.png)
 
+#### Let's put them together
 
 ![](./img/wisdom-graph.png)
 
+Everything starts with God, then He gives us His Word, which is truth. From truth you get discernment, understanding. Then you will discern the fear of the Lord and discover the knowledge of God. Fear of the Lord is the beginning of wisdom. Finally you will be just and able to make right decisions. Solomon had all these, but...
 
 ### What happened to the wisest man?
 ##### Ecclesiastes 2
@@ -52,13 +62,15 @@ The answer is in the text before.
 
 ![](./img/solomon-for-myself.png)
 
-Solomon's riches, wisdom, power and all material good were not enough to satisfy him. Why? Because he was living all to himself and not to God. Let's not end as Solomon, let's live for God! 
+*Solomon's riches, wisdom, power and all material good were not enough to satisfy him. Why? Because he was living all to himself and not to God. Let's not end as Solomon, let's live for God!* 
 
 ### What are your main reasons to live?
-Where is your attention?
+Where is your attention? God or the daily cares of life? God or the pursue of wealth? God or self-satisfaction? Are you walking in Spirit or walking in flesh? How much time have you spent meditating on God and His Word? Do you know the true God or are you a religious person creating your own God?
 
-Truth, understanding, discernment, knowledge of God, and wisdom, without faith in God is pointless and leads to destruction. Solomon had wisdom and didn’t end well. 
+Truth, understanding, discernment, knowledge of God, and wisdom, without faith(trust) in God is pointless and leads to destruction. Solomon had wisdom and didn’t end well. 
+
 Satan knows God and truths and didn’t end well. 
+
 True understanding, true discernment, true knowledge, true wisdom, and true ability to judge, and therefore to make good decisions, is only provided and sustained by God, as are all the fruits of the Spirit.
 
 Let's ask Him! Let's seek Him! Let's know Him! Let's submit to Him!

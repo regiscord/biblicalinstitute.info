@@ -46,7 +46,7 @@ We are born again by faith in Him.
 
 ### We are tempted by our eyes, flesh, and pride.
 #### God give us the Holy Spirit and a new heart to be able to flee temptation. We need to walk in Spirit.
-### God will not allow a temptation greater than we can handle.
+#### God will not allow a temptation greater than we can handle.
 
 ##### Mat 26:41 
 ><font color="orange">Keep watching and praying</font> that you may not enter into temptation; <font color="orange">the spirit is willing, but the flesh is weak</font>
@@ -125,7 +125,7 @@ We are born again by faith in Him.
 >14 But a <font color="orange">natural man does not accept the things of the Spirit of God, for they are foolishness to him</font>; and he <font color="orange">cannot understand them</font>, because <font color="orange">they are spiritually appraised</font>. 15 But he who is spiritual appraises all things, yet he himself is appraised by no one.
 
 
-### Instead, let's do these things
+### Instead, let's do these
 
 #### Who do you trust?
 
@@ -146,12 +146,21 @@ Also:
 ##### Heb 5:14 
 >But solid <font color="orange">food</font> is for the mature, who because of practice have their senses <font color="orange">trained to discern good and evil</font>.
 
+We train to discern good and evil in His Word
+
 #### Let’s take responsibility for our mistakes, and humble ourselves before God, and not blame others for our actions like Adam and Eve did.
+
 ##### Mat 7:1-3
 >1 “<font color="orange">Do not judge so that you will not be judged</font>. 2 For <font color="orange">in the way you judge, you will be judged</font>; and <font color="orange">by your standard of measure, it will be measured to you</font>. 3 Why do you look at the <font color="orange">speck</font> that is in your brother’s eye, but do not notice the <font color="orange">log</font> that is in your own eye?
 
 ##### Jam 2:13
 >For <font color="orange">judgement</font> will be merciless to one who has shown no mercy; <font color="orange">mercy triumphs over judgment</font>.
+
+
+#### Let’s live for God and not for ourselves.
+
+##### Heb 12:1-2 
+>1 Therefore, since we have so great a cloud of witnesses surrounding us, let us also lay aside every encumbrance and the <font color="orange">sin which so easily entangles us</font>, and let us <font color="orange">run with endurance</font> the race that is set before us, 2 <font color="orange">fixing our eyes on Jesus, the author and perfecter of faith</font>, who for the joy set before Him endured the cross, despising the shame, and has sat down at the right hand of the throne of God.
 
 
 #### Let’s seek God for wisdom to know and discern what is important, and not add to or remove from His Word.
@@ -162,33 +171,22 @@ Also:
 ##### Prov 30:5-6
 >5 <font color="orange">Every</font> word of God is <font color="orange">tested</font>;
 <font color="orange">He</font> is a shield to those who <font color="orange">take refuge</font> in Him.
-6 Do <font color="orange">not add to His words
+6 Do <font color="orange">not add to His words</font>
 Or <font color="orange">He will reprove you</font>, and you will <font color="orange">be proved a liar</font>.
 
 ##### 2 Cor 1:13
->For we are <font color="orange">not writing to you anything other than what you read and understand</font> and I hope you will fully understand
+>For we are <font color="orange">not writing to you anything other than what you read and understand</font> and I hope you will fully understand, and I hope <font color="orange">you will understand</font> until the end;
 
-Why is it so important to not add to or remove from His Word?
-
-
-### Let’s live for God and not for ourselves.
-
-##### Heb 12:1-2 
->1 Therefore, since we have so great a cloud of witnesses surrounding us, let us also lay aside every encumbrance and the <font color="orange">sin which so easily entangles us</font>, and let us <font color="orange">run with endurance</font> the race that is set before us, 2 <font color="orange">fixing our eyes on Jesus, the author and perfecter of faith</font>, who for the joy set before Him endured the cross, despising the shame, and has sat down at the right hand of the throne of God.
+Why is it so important to not add to or remove from His Word? Let's get into details in our next study
 
 
 ### Closing thoughts
 Are we dependent on Him and do we accept His will, or do we live according to our own will?
 Where do we find answers to life?
 Do we seek God or our own ideas when going to His Word?
-How do we study the Bible?
 Do we add to or remove from it?
 Are we judged by His Word, or do we judge His Word (Him)?
 What are other areas in which we are adding to or removing from and not even noticing?
-How to study the Bible?
-Are there geographical, historical, cultural gaps we need to cross to understand the Bible? Where does He say that? Or is it a spiritual gap?
-Is there any place in the Bible that tells us to interpret God’s Word?
-Do we need to know the original language to know what God is revealing? Is it possible to truly access the original languages?
 
 
 [Back to home](./../index.md)

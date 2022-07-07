@@ -1,6 +1,6 @@
 [Back to home](./../index.md)
 
-# What happened to us when Adam sinned?
+# What happened to us because Adam sinned?
 
 ##### Genesis 2:9
 >9 Out of the ground the LORD God caused to grow every tree that is pleasing to the sight and good for food; the <font color="orange">tree of life</font> also in the midst of the garden, and the <font color="orange">tree of the knowledge of good and evil</font>.
@@ -87,7 +87,7 @@ They answered based on what was important to them.
 Both shifted the blame to somebody else, and Adam ultimately blamed God.
 
 
-##### The consequences of the Fall to all
+#### The consequences of the Fall to all
 *We are born spiritually dead.
 We think we are gods, knowing good and evil.
 	We trust ourselves and not God.
@@ -97,7 +97,7 @@ Because of these, our decisions are wrong.
 We search for knowledge and understanding in our own ways (based on what we think is right or wrong, good or evil).*
 
 
-##### Why is it so hard to know the truth?
+#### Why is it so hard to know the truth?
 *Like Adam, Eve, and Satan, we add to or remove from what God says.
 We don’t give importance to what He says.
 We don’t trust (have faith) in what He says.
