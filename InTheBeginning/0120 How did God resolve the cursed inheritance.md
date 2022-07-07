@@ -17,7 +17,7 @@ We are born again by faith in Him.
 
  
 ### We think we are gods, knowing good and evil.
-#### The Lord give us His Word and His Spirit so we trust in Him
+#### The Lord gives us His Word and His Spirit so we trust in Him.
 
 ##### 1 Ki 3:9 
 >So <font color="orange">give Your servant an understanding heart</font> <font color="green">to judge</font> Your people <font color="green">to discern between good and evil</font>. For <font color="orange">who is able to judge</font> this great people of Yours?”
@@ -45,7 +45,7 @@ We are born again by faith in Him.
 
 
 ### We are tempted by our eyes, flesh, and pride.
-#### God give us the Holy Spirit and a new heart to be able to flee temptation. We need to walk in Spirit.
+#### God gives us the Holy Spirit and a new heart to be able to flee temptation. We need to walk by the Spirit.
 #### God will not allow a temptation greater than we can handle.
 
 ##### Mat 26:41 
@@ -61,7 +61,7 @@ We are born again by faith in Him.
 ##### 1 Cor 6:18
 ><font color="orange">Flee immorality</font>. Every other sin that a man commits is outside the body, but the immoral man sins against his own body.
 
-1 Tim 6:10-11
+##### 1 Tim 6:10-11
 ><font color="orange">For the love of money is a root of all sorts of evil</font>, and some by longing for it have <font color="orange">wandered away from the faith</font> and pierced themselves with many griefs.
 >11 But <font color="orange">flee from these things</font>, you man of God, and <font color="orange">pursue righteousness, godliness, faith, love, perseverance and gentleness</font>.
 
@@ -125,7 +125,7 @@ We are born again by faith in Him.
 >14 But a <font color="orange">natural man does not accept the things of the Spirit of God, for they are foolishness to him</font>; and he <font color="orange">cannot understand them</font>, because <font color="orange">they are spiritually appraised</font>. 15 But he who is spiritual appraises all things, yet he himself is appraised by no one.
 
 
-### Instead, let's do these
+### Instead, let's do these:
 
 #### Who do you trust?
 
@@ -141,12 +141,12 @@ Also:
 *Ex 22:9; Dt 1:32; 28:52; 2 Ki 18:5, 22, 30; 19:10; 1 Ch 5:20; 9:26; 2 Ch 13:18; 14:11; 20:20; Job 4:18; 12:20; 15:15; Ps 4:5; 9:10; 13:5; 21:7; 22:4, 5, 9; 25:2; 26:1; 28:7; 31:6, 14; 32:10; 33:21; 37:3, 5; 40:3, 4; 52:7, 8; 55:23; 56:3, 4, 11; 62:8; 65:5; 78:22; 84:12; 86:2; 91:2; 112:7; 115:9, 10, 11; 118:8, 9; 119:42; 125:1; 143:8; Pr 3:5; 16:20; 22:19; 28:25; 29:25; Is 12:2; 26:3, 4; 30:12, 15; 31:1; 36:7, 15; 37:10; 50:10; Je 2:37; 7:4, 14; 13:25; 17:5, 7; 28:15; 29:31; 39:18; 46:25; 49:4, 11; Eze 33:13; Da 3:28; 6:23; Zep 3:2; Mt 27:43; 2 Co 1:9; Heb 2:13*
 
 
-#### Our main problem is we think we are gods, being able to manage our own life and deciding what is good and evil.
+#### Our main problem is we think we are gods, being able to manage our own lives and deciding what is good and evil.
 
 ##### Heb 5:14 
 >But solid <font color="orange">food</font> is for the mature, who because of practice have their senses <font color="orange">trained to discern good and evil</font>.
 
-We train to discern good and evil in His Word
+We train in His Word to discern good and evil. By trusting in Him and not in ourselves.
 
 #### Let’s take responsibility for our mistakes, and humble ourselves before God, and not blame others for our actions like Adam and Eve did.
 
@@ -182,11 +182,16 @@ Why is it so important to not add to or remove from His Word? Let's get into det
 
 ### Closing thoughts
 Are we dependent on Him and do we accept His will, or do we live according to our own will?
+
 Where do we find answers to life?
-Do we seek God or our own ideas when going to His Word?
+
+Do we seek God or our own ideas, when going to His Word?
+
 Do we add to or remove from it?
+
 Are we judged by His Word, or do we judge His Word (Him)?
-What are other areas in which we are adding to or removing from and not even noticing?
+
+What are other areas in which we are adding to or removing from His Word and not even noticing?
 
 
 [Back to home](./../index.md)

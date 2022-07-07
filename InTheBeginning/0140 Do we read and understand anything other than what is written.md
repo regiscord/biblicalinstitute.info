@@ -5,28 +5,28 @@
 ##### 2 Cor 1:13
 >For we are <font color="orange">not writing to you anything other than what you read and understand</font> and I hope you will fully understand, and I hope <font color="orange">you will understand</font> until the end;
 
-- Do we add and remove from God's Word?
+- Do we add to and remove from God's Word?
 - Do we read and understand anything other than what is written?
 
-Let's use the question: Are we made of two or three parts to evaluate it?
+To evaluate this, let's use the question: As humans, are we made of two or three parts?
 
-Historically man creates frameworks to "help" in the process of understanding the Bible. In this case, the framework is two or three parts. Looking at man's thinking and not God's, we narrow the possibilities to consider. Again in this case, is very confusing because they both make sense for some verses and both don't make sense in others.
+Historically, man creates frameworks to "help" in the process of understanding the Bible. In this case, the framework is two or three parts. By looking at man's thinking and not God's, we narrow the possibilities to consider. Again, in this case, it is very confusing because they both make sense in some verses and both don't make sense in others.
 
 ### Dichotomy (two parts) or Trichotomy (three parts)?
 ![](./img/part-options.png)
 
 What do you believe? Is it important to you to understand? Why?
 
-*The answer is both and neither - so the answer may be something else
+*The answer is both and neither - so the answer may be something else.
 
 It is confusing because we are not going to the Word alone. The final result is that we can't find the answer.
 
 Is this question important? Or not that important?*
 
-Let's use God's Word alone and forget what man says (history and tradition) or what we think and see if we can find an answer.
+Let's use God's Word alone and forget what man says (history and tradition) and what we think and see if we can find an answer.
 
-#### Verses Evaluation
-Let's looks these verses to see what God says
+#### Verse Evaluation
+Let's look at these verses to see what God says:
 
 ##### Psalm 31:9
 >My eye is wasted away from grief, my <font color="orange">soul</font> and my <font color="orange">body</font> also.
@@ -52,19 +52,19 @@ Let's looks these verses to see what God says
 
 ![](./img/not-3p.png)  ![](./img/not-2p.png)
 
-*This verse demands that soul and spirit are not clearly distinct, you need God's Word to be able to parse them apart. It can not be the option where they are two separate parts because that would imply no division. So it can not be they are to separate parts. In the same way, it can not be the option where they are just one used intermittently either. This verse doesn't make sense to either of these options.*
+*This verse demands that soul and spirit are not clearly distinct. You need God's Word to be able to tell them apart. If they were two clearly separate parts, no division would be necessary. So, it can not be that they are two separate parts. At the same time, it can not be that soul and spirit are the same thing which are simply being described intermittently by two different words. This verse doesn't make sense with either of these options.*
 
 
-Let's use this verse to clarify these separations
+Let's use this verse to clarify these separations:
 
 >For the word of God is living and active and sharper than any two-edged sword, and piercing as far as <font color="orange">the division of soul and spirit</font>, of <font color="orange">both joints and marrow</font>, and able to <font color="orange">judge the thoughts and intentions of the heart</font>
 
-*As we can see the common relation is that one is inside the other. No big insight, just clearly written. Marrow is inside the joints and intentions of the heart is inside the thoughts. God's Word is so sharper that allows us to discern between what seems to be one.*
+*As we can see, the common relationship is that one is inside the other. No big insight, just clearly written. Marrow is inside the joints, and the intentions of the heart are inside the thoughts. God's Word is so sharp it allows us to discern between things which seem to be one.*
 
 ![](./img/3p-in-2p-explained.png)
-Based on this text we can read that the spirit is part of the soul like the marrow is part of the joint. You can have a bone without marrow and it would be dead.
+Based on this text we can read that the spirit is part of the soul like the marrow is part of the joint. You can have a bone without marrow, and it would be dead.
 
-#### Let's validate this option with the verses we mentioned before and others more to see if it makes sense:
+#### Let's validate this option with the verses we mentioned before and others to see if it makes sense:
 
 ![](./img/3p-in-2p.png)
 
@@ -115,7 +115,7 @@ Based on this text we can read that the spirit is part of the soul like the marr
 ##### Eze 36:26-27
 >26 Moreover, I will give you <font color="orange">a new heart and put a new spirit</font> within you; and I will remove the heart of stone from your flesh and give you a heart of flesh. 27 I will put <font color="orange">My Spirit within you</font> and <font color="green">cause you to walk in My statutes, and you will be careful to observe My ordinances</font>.
 
-Eze 37:1-10
+##### Eze 37:1-10
 >The hand of the LORD was upon me, and He brought me out by the Spirit of the LORD and set me down in the middle of the valley; and it was full of bones. 2 He caused me to pass among them round about, and behold, there were very many on the surface of the valley; and lo, they were <font color="orange">very dry</font>. 3 He said to me, “Son of man, <font color="orange">can these bones live?</font>” And I answered, “O Lord GOD, You know.” 4 Again He said to me, “Prophesy over these bones and say to them, ‘O dry bones, <font color="orange">hear the word</font> of the LORD.’ 5 Thus says the Lord GOD to these bones, ‘Behold, I will cause breath to enter you that <font color="orange">you may come to life</font>. 6 I will put sinews on you, make flesh grow back on you, cover you with skin and put breath in you that you may come alive; and <font color="orange">you will know that I am the LORD</font>.’ ”
 >7 So I prophesied as I was commanded; and as I prophesied, there was a noise, and behold, a rattling; <font color="orange">and the bones came together, bone to its bone</font>. 8 And I looked, and behold, sinews were on them, and flesh grew and skin covered them; <font color="orange">but there was no breath in them</font>. 9 Then He said to me, “Prophesy to the breath, prophesy, son of man, and say to the breath, ‘Thus says the Lord GOD, “Come from the four winds, O breath, and breathe on these slain, that they come to life.” ’ ” 10 So I prophesied as He commanded me, and the breath came into them, and <font color="orange">they came to life and stood on their feet</font>, an exceedingly great army.
 >11 Then He said to me, “Son of man, these bones are the whole house of Israel; behold, they say, ‘<font color="green">Our bones are dried up and our hope has perished. We are completely cut off.</font>’ 12 Therefore prophesy and say to them, ‘Thus says the Lord GOD, “Behold, I will open your graves and cause you to come up out of your graves, My people; and I will bring you into the land of Israel. 13 Then you will know that I am the LORD, when I have opened your graves and caused you to come up out of your graves, My people. 14 <font color="orange">I will put My Spirit within you and you will come to life</font>, and I will place you on your own land. <font color="orange">Then you will know that I, the LORD, have spoken and done it,</font>” declares the LORD.’ ”
@@ -127,7 +127,7 @@ He who has the seven Spirits of God and the seven stars, says this: ‘<font col
 
 ### Spiritual Death
 Happened in the same day Adam ate the fruit of the tree of knowledge of good and evil.
-We became spiritually alive with our new birth from the Holy Spirit when we are saved by Jesus.
+We become spiritually alive with our new birth from the Holy Spirit when we are saved by Jesus.
 
 ##### Gen 2:15
 >Then the LORD God took the man and put him into the garden of Eden to cultivate it and keep it. 16 The LORD God commanded the man, saying, “From any tree of the garden you may eat freely; 17 but from the tree of the knowledge of good and evil you shall not eat, for <font color="orange">in the day</font> that you eat from it <font color="orange">you will surely die</font>.”
@@ -137,7 +137,7 @@ We became spiritually alive with our new birth from the Holy Spirit when we are 
 
 
 ### Physical death
-Happens because we lost access to the tree of life
+Happens because we lost access to the tree of life.
 
 ##### Gen 3:22-24
 >Then the LORD God said, “Behold, the man has become like one of Us, knowing good and evil; and now, he might stretch out his hand, and <font color="orange">take also from the tree of life, and eat, and live forever</font>”— 23 therefore the LORD God sent him out from the garden of Eden, to cultivate the ground from which he was taken. 24 So He drove the man out; and at the east of the garden of Eden He stationed the cherubim and the flaming sword which turned every direction to guard the way to the tree of life.
@@ -154,16 +154,17 @@ Who do you believe? God or the serpent?
 
 
 ### Conclusion
-We can clearly understand the new birth Jesus talked about. It was a spiritual birth, necessary because of the spiritual death. We can clearly understand the new spirit God promised. Salvation becomes very clear when we understand what happened to Adam and consequently to us when we read and understand what is written.
+We can clearly understand the new birth Jesus talked about. It was a spiritual birth, necessary because of spiritual death. We can clearly understand the new spirit God promised. Salvation becomes very clear when we understand what happened to Adam, and consequently to us, when we read and understand what is written.
 
-We can see very clear too that what God told Adam happened in the same day, surely.
+We can see very clearly too that what God told Adam surely happened in the same day.
 
 To believe in God is to believe in His Word. To believe in God's Word is to believe in Him. You can't believe in God and disbelieve His Word at the same time. They are inseparable.
 
-We should focus in reading and understanding. If we lack understanding let's ask God. 
-Let's make sure we seek God on helping us on how to study His Word. Being careful to not add or remove and to read and understand what is plainly written.
+We should focus on reading and understanding. If we lack understanding let's ask God. 
 
-Creating a method to make sense of the Bible doesn't help but just adds to it. We will study in detail how to get understanding, discernment, wisdom, knowledge of God. As a preview you can look at Prov 2.
+Let's make sure we seek God's help to know how to study His Word. Being careful to not add to or remove from it, and to read and understand what is plainly written.
+
+Creating a method to make sense of the Bible doesn't help but just adds to it. We will study in detail how to get understanding, discernment, wisdom, and the knowledge of God. As a preview you can look at Prov 2.
 
 
 [Back to home](./../index.md)

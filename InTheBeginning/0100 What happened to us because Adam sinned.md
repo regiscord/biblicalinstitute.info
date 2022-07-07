@@ -43,9 +43,10 @@ Being like God was new, knowing good and evil.*
 
 ##### Genesis 3:6
 >6 When the woman saw that the tree was <font color="orange">good for food</font>, and that it was a <font color="orange">delight to the eyes</font>, and that the tree was <font color="orange">desirable to make one wise</font>, she took from its fruit and <font color="orange">ate</font>; and she gave also to her husband with her, and he <font color="orange">ate</font>. 
-*Satan tempted Eve the same way he tempted Jesus.
+
+*Satan tempted Eve the same way he tempted Jesus:
 Lust of the eyes, lust of the flesh, and pride of life.
-They both disobeyed God*
+Adam and Eve both disobeyed God*
 
 
 ##### Genesis 3:7
@@ -54,7 +55,7 @@ They both disobeyed God*
 
 *The consequence:
 **Spiritual death**
-	Happened in the same day like God warned
+	Happened in the same day, like God warned
 	Separation from God	
 	Independence from God
 Fear*
@@ -63,9 +64,10 @@ Fear*
 ##### Genesis 3:22-24
 >22 Then the LORD God said, “Behold, the man has become like one of Us, knowing good and evil; and now, he might stretch out his hand, and <font color="orange">take also from the tree of life, and eat, and live forever</font>”— 23 therefore the LORD God sent him out from the garden of Eden, to cultivate the ground from which he was taken. 24 So He drove the man out; and at the east of the garden of Eden <font color="orange">He stationed the cherubim and the flaming sword</font> which turned every direction <font color="orange">to guard the way to the tree of life</font>.
 
-**Physical death** *happened later because they lost access to the tree of life.
+**Physical death** 
+*Happened later, because they lost access to the tree of life.
 They could live forever after their disobedience.
-Death came in but they died later is different of in the day they ate they surely died.*
+Death came in, but they died later is different from in the day they ate they surely died.*
 
 
 ##### Genesis 2:15-17
@@ -89,18 +91,27 @@ Both shifted the blame to somebody else, and Adam ultimately blamed God.
 
 #### The consequences of the Fall to all
 *We are born spiritually dead.
+
 We think we are gods, knowing good and evil.
+
 	We trust ourselves and not God.
+
 	We judge God.
-We are tempted by the lust of our eyes and flesh and pride of life.
+
+We are tempted by the lust of our eyes, and flesh, and pride of life.
+
 Because of these, our decisions are wrong.
+
 We search for knowledge and understanding in our own ways (based on what we think is right or wrong, good or evil).*
 
 
 #### Why is it so hard to know the truth?
 *Like Adam, Eve, and Satan, we add to or remove from what God says.
+
 We don’t give importance to what He says.
+
 We don’t trust (have faith) in what He says.
+
 We don’t accept what God says or His will.*
 
 
