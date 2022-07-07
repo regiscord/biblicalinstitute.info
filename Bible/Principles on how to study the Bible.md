@@ -5,9 +5,9 @@
 - We believe the Bible is Truthful, Inspired, Infallible, Authoritative, Complete, Inerrant, Sufficient, Powerful, Pure, Forever, Purposeful, Knowable, Understandable, Revealed by God
 - It is impossible to separate the Bible and the God who spoke it  
     - Disagreeing with the Bible is disagreeing with God
-    - Not believing in the Bible is not believing the God who it
+    - Not believing in the Bible is not believing the God who wrote it
 - We believe in what God reveals about our current state
-- The correct seeking, hearing, understanding, application and teaching of scriptures is dependent on the Holy Spirit. 
+	- The correct seeking, hearing, understanding, application and teaching of scriptures is dependent on the Holy Spirit. 
     - We approach the Bible with our attitude and motives in mind
 - We study the Bible God’s way not our own  
     - You can study the Scriptures and not know God – it is revealed by God
