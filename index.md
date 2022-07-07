@@ -11,7 +11,7 @@
 
 
 # Good News
-We are dead in our transgressions
+We are born spiritually dead in our transgressions
 
 Jesus saves us and gives us a new life with rest and peace with God
 
