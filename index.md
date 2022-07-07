@@ -1,9 +1,6 @@
-# Good News
-We are dead in our transgressions
-Jesus saves us and gives us a new life with rest and peace with God
-
 
 # In The Beginning
+
 [What happened to us because Adam sinned](/InTheBeginning/0100 What happened to us because Adam sinned.md)
 
 [How did God resolve the cursed inheritance](/InTheBeginning/0120 How did God resolve the cursed inheritance.md)
@@ -13,13 +10,21 @@ Jesus saves us and gives us a new life with rest and peace with God
 [How to discern between good and evil](/InTheBeginning/0160 How to discern between good and evil.md)
 
 
+# Good News
+We are dead in our transgressions
+
+Jesus saves us and gives us a new life with rest and peace with God
+
+
 
 # Bible
+
 [Principles on how to study the Bible](/Bible/Principles on how to study the Bible.md)
 
 
 
 # Knowledge of God
+
 Revelation
 	Creation and Bible
 ...
@@ -28,6 +33,7 @@ Revelation
 
 
 # Who is God
+
 Thee in One
 God the Father
 Jesus
