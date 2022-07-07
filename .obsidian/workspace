@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "da8f69100e39e328",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a319cdbb2100128",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "source"
+          }
+        },
+        "group": "2c74bb38a8cfe6fd"
+      },
+      {
+        "id": "65eec2c524c115bd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "preview"
+          }
+        },
+        "group": "2c74bb38a8cfe6fd"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25303bcc00c6ab3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "73ffe88e0c2a7107",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d5d98da27e1300a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "90ae5b24bdeb32fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0230615697962481",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcb113319b92774f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca4cedcf02a9c362",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5a319cdbb2100128",
+  "lastOpenFiles": [
+    "index.md",
+    "InTheBeginning/0100 What happened to us because Adam sinned.md",
+    "InTheBeginning/0140 Do we read and understand anything other than what is written.md",
+    "InTheBeginning/0120 How did God resolve the cursed inheritance.md"
+  ]
+}
