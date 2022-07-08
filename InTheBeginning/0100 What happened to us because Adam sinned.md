@@ -3,19 +3,19 @@
 # What happened to us because Adam sinned?
 
 ##### Genesis 2:9
->9 Out of the ground the LORD God caused to grow every tree that is pleasing to the sight and good for food; the <span color="orange">tree of life</span> also in the midst of the garden, and the <span color="orange">tree of the knowledge of good and evil</span>.
+>9 Out of the ground the LORD God caused to grow every tree that is pleasing to the sight and good for food; the <span style='color:orange'>tree of life</span> also in the midst of the garden, and the <span style='color:orange'>tree of the knowledge of good and evil</span>.
 
 *Two special trees*
 
 
 ##### Genesis 2:15-17
->15 Then the LORD God took the man and put him into the garden of Eden to cultivate it and keep it. 16 The LORD God commanded the man, saying, “<span color="orange">From any tree of the garden you may eat freely</span>; 17 but from the <span color="orange">tree of the knowledge of good and evil you shall not eat</span>, for <span color="orange">in the day</span> that you eat from it <span color="orange">you will surely die</span>.”
+>15 Then the LORD God took the man and put him into the garden of Eden to cultivate it and keep it. 16 The LORD God commanded the man, saying, “<span style='color:orange'>From any tree of the garden you may eat freely</span>; 17 but from the <span style='color:orange'>tree of the knowledge of good and evil you shall not eat</span>, for <span style='color:orange'>in the day</span> that you eat from it <span style='color:orange'>you will surely die</span>.”
 
 *Simple, clear, and unique command with a specific consequence*
 
 
 ##### Genesis 3:1-5
->1 Now the serpent was more crafty than any beast of the field which the LORD God had made. And he said to the woman, “Indeed, has God said, ‘<span color="orange">You shall not eat from any tree of the garden’?</span>” 2 The woman said to the serpent, “From the fruit of the trees of the garden we may eat; 3 but from the fruit of the tree which is in the middle of the garden, God has said, ‘You shall not eat from it <span color="orange">or touch it</span>, or you will die.’ ” 4 The serpent said to the woman, “<span color="orange">You surely will not die!</span> 5 For God knows that in the day you eat from it your eyes will be opened, and <span color="orange">you will be like God, knowing good and evil.</span>”
+>1 Now the serpent was more crafty than any beast of the field which the LORD God had made. And he said to the woman, “Indeed, has God said, ‘<span style='color:orange'>You shall not eat from any tree of the garden’?</span>” 2 The woman said to the serpent, “From the fruit of the trees of the garden we may eat; 3 but from the fruit of the tree which is in the middle of the garden, God has said, ‘You shall not eat from it <span style='color:orange'>or touch it</span>, or you will die.’ ” 4 The serpent said to the woman, “<span style='color:orange'>You surely will not die!</span> 5 For God knows that in the day you eat from it your eyes will be opened, and <span style='color:orange'>you will be like God, knowing good and evil.</span>”
 
 *Satan added to and removed from, and twisted what God said.<br />
 Satan also made false promises.<br />
@@ -26,23 +26,23 @@ Are we caring enough to not do the same today?*
 
 
 ##### Genesis 3:6
->6 When the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was <span color="orange">desirable to make one wise</span>, she took from its fruit and ate; and she gave also to her husband with her, and he ate.
+>6 When the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was <span style='color:orange'>desirable to make one wise</span>, she took from its fruit and ate; and she gave also to her husband with her, and he ate.
 
 *Satan fell, because he wanted to be like God.<br />
 It was also appealing to Adam and Eve.*
 
 
 ##### Genesis 2:9
->2:9 Out of the ground the LORD God caused to grow every tree that is <span color="orange">pleasing to the sight and good for food</span>; the tree of life also in the midst of the garden, and the tree of the knowledge of good and evil.
+>2:9 Out of the ground the LORD God caused to grow every tree that is <span style='color:orange'>pleasing to the sight and good for food</span>; the tree of life also in the midst of the garden, and the tree of the knowledge of good and evil.
 ##### Genesis 3:4-5
->3:4 The serpent said to the woman, “You surely will not die! 5 For God knows that in the day you eat from it your eyes will be opened, and <span color="orange">you will be like God, knowing good and evil</span>.”
+>3:4 The serpent said to the woman, “You surely will not die! 5 For God knows that in the day you eat from it your eyes will be opened, and <span style='color:orange'>you will be like God, knowing good and evil</span>.”
 
 *Before they had pleasure with their eyes and enjoyed the food, but were not like God.<br />
 Being like God was new, knowing good and evil.*
 
 
 ##### Genesis 3:6
->6 When the woman saw that the tree was <span color="orange">good for food</span>, and that it was a <span color="orange">delight to the eyes</span>, and that the tree was <span color="orange">desirable to make one wise</span>, she took from its fruit and <span color="orange">ate</span>; and she gave also to her husband with her, and he <span color="orange">ate</span>. 
+>6 When the woman saw that the tree was <span style='color:orange'>good for food</span>, and that it was a <span style='color:orange'>delight to the eyes</span>, and that the tree was <span style='color:orange'>desirable to make one wise</span>, she took from its fruit and <span style='color:orange'>ate</span>; and she gave also to her husband with her, and he <span style='color:orange'>ate</span>. 
 
 *Satan tempted Eve the same way he tempted Jesus:<br />
 Lust of the eyes, lust of the flesh, and pride of life.<br />
@@ -52,8 +52,8 @@ Adam and Eve both disobeyed God*
 ### The consequence:
 
 ##### Genesis 3:7
->7 Then the <span color="orange">eyes of both of them were opened</span>, and they <span color="orange">knew that they were naked</span>; and they sewed fig leaves together and made themselves loin coverings.
->8 They heard the sound of the LORD God walking in the garden in the cool of the day, and the man and his wife <span color="orange">hid themselves from the presence of the LORD God</span> among the trees of the garden. 9 Then the LORD God called to the man, and said to him, “Where are you?” 10 He said, “I heard the sound of You in the garden, and <span color="orange">I was afraid</span> because I was naked; so I hid myself.”
+>7 Then the <span style='color:orange'>eyes of both of them were opened</span>, and they <span style='color:orange'>knew that they were naked</span>; and they sewed fig leaves together and made themselves loin coverings.
+>8 They heard the sound of the LORD God walking in the garden in the cool of the day, and the man and his wife <span style='color:orange'>hid themselves from the presence of the LORD God</span> among the trees of the garden. 9 Then the LORD God called to the man, and said to him, “Where are you?” 10 He said, “I heard the sound of You in the garden, and <span style='color:orange'>I was afraid</span> because I was naked; so I hid myself.”
 
 **Spiritual death**<br />
 *Happened in the same day, like God warned<br />
@@ -63,7 +63,7 @@ Fear*
 
 
 ##### Genesis 3:22-24
->22 Then the LORD God said, “Behold, the man has become like one of Us, knowing good and evil; and now, he might stretch out his hand, and <span color="orange">take also from the tree of life, and eat, and live forever</span>”— 23 therefore the LORD God sent him out from the garden of Eden, to cultivate the ground from which he was taken. 24 So He drove the man out; and at the east of the garden of Eden <span color="orange">He stationed the cherubim and the flaming sword</span> which turned every direction <span color="orange">to guard the way to the tree of life</span>.
+>22 Then the LORD God said, “Behold, the man has become like one of Us, knowing good and evil; and now, he might stretch out his hand, and <span style='color:orange'>take also from the tree of life, and eat, and live forever</span>”— 23 therefore the LORD God sent him out from the garden of Eden, to cultivate the ground from which he was taken. 24 So He drove the man out; and at the east of the garden of Eden <span style='color:orange'>He stationed the cherubim and the flaming sword</span> which turned every direction <span style='color:orange'>to guard the way to the tree of life</span>.
 
 **Physical death**<br />
 *Happened later, because they lost access to the tree of life.<br />
@@ -72,9 +72,9 @@ Death came in, but they died later is different from in the day they ate they su
 
 
 ##### Genesis 2:15-17
->2:15 Then the LORD God took the man and put him into the garden of Eden to cultivate it and keep it. 16 The LORD God commanded the man, saying, “From any tree of the garden you may eat freely; 17 <span color="orange">but from the tree of the knowledge of good and evil you shall not eat</span>, for <span color="orange">in the day</span> that you eat from it <span color="orange">you will surely die</span>.”
+>2:15 Then the LORD God took the man and put him into the garden of Eden to cultivate it and keep it. 16 The LORD God commanded the man, saying, “From any tree of the garden you may eat freely; 17 <span style='color:orange'>but from the tree of the knowledge of good and evil you shall not eat</span>, for <span style='color:orange'>in the day</span> that you eat from it <span style='color:orange'>you will surely die</span>.”
 ##### Genesis 3:4-5
->3:4 <span color="orange">The serpent said to the woman, “You surely will not die!</span> 5 For God knows that in the day you eat from it your eyes will be opened, <span color="orange">and you will be like God, knowing good and evil</span>.”
+>3:4 <span style='color:orange'>The serpent said to the woman, “You surely will not die!</span> 5 For God knows that in the day you eat from it your eyes will be opened, <span style='color:orange'>and you will be like God, knowing good and evil</span>.”
 
 *Who did they believe?<br />
 Who do we believe?<br />
@@ -82,7 +82,7 @@ Is getting it right important to us?*
 
 
 ##### Genesis 3:11
->11 And He said, “<span color="green">Who told you that you were naked? Have you eaten from the tree of which I commanded you not to eat?</span>” 12 The man said, “<span color="orange">The woman whom You gave to be with me, she gave me from the tree, and I ate.</span>” 13 Then the LORD God said to the woman, “<span color="green">What is this you have done?</span>” And the woman said, “<span color="orange">The serpent deceived me, and I ate.</span>”
+>11 And He said, “<span style='color:green'>Who told you that you were naked? Have you eaten from the tree of which I commanded you not to eat?</span>” 12 The man said, “<span style='color:orange'>The woman whom You gave to be with me, she gave me from the tree, and I ate.</span>” 13 Then the LORD God said to the woman, “<span style='color:green'>What is this you have done?</span>” And the woman said, “<span style='color:orange'>The serpent deceived me, and I ate.</span>”
 
 The effects of their disobedience?<br />
 Adam totally ignored God’s first question.<br />
