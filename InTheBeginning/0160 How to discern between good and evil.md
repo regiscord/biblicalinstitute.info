@@ -16,29 +16,29 @@ A few words become relevant in his request: give, understanding, discernment, ju
 We can see all these words in one verse.
 
 Proverbs 2:1-12
->1 My son, if you will receive <font color="#0070C0">my words</font>
-And treasure <font color="#0070C0">my commandments</font> within you,
-2 Make your ear attentive to <font color="#A2CF49">wisdom</font>,
-Incline your heart to <font color="#CF8B03">understanding</font>;
-3 For if you cry for <font color="#608F3D">discernment</font>,
-Lift your voice for <font color="#CF8B03">understanding</font>;
-4 If you seek her as silver
-And search for her as for hidden treasures;
-5 **Then** you will <font color="#608F3D">discern</font> the <font color="#229E80">fear of the LORD</font>
-And discover the <font color="#FCB11C">knowledge of God</font>.
-6 For the LORD gives <font color="#A2CF49">wisdom</font>;
-From His mouth come <font color="#FCB11C">knowledge</font> and <font color="#CF8B03">understanding</font>.
-7 He stores up <font color="#A2CF49">sound wisdom</font> for the upright;
-He is a shield to those who walk in integrity,
-8 Guarding the paths of <font color="#49BBD1">justice</font>,
-And He preserves the way of His godly ones.
-9 Then you will <font color="#608F3D">discern</font> righteousness and <font color="#49BBD1">justice</font>
-And equity and every good course.
-10 For <font color="#A2CF49">wisdom</font> will enter your heart
-And <font color="#FCB11C">knowledge</font> will be pleasant to your soul;
-11 Discretion will guard you,
-<font color="#CF8B03">Understanding</font> will watch over you,
-12 To deliver you from the way of evil,
+>1 My son, if you will receive <font color="#0070C0">my words</font><br />
+And treasure <font color="#0070C0">my commandments</font> within you,<br />
+2 Make your ear attentive to <font color="#A2CF49">wisdom</font>,<br />
+Incline your heart to <font color="#CF8B03">understanding</font>;<br />
+3 For if you cry for <font color="#608F3D">discernment</font>,<br />
+Lift your voice for <font color="#CF8B03">understanding</font>;<br />
+4 If you seek her as silver<br />
+And search for her as for hidden treasures;<br />
+5 **Then** you will <font color="#608F3D">discern</font> the <font color="#229E80">fear of the LORD</font><br />
+And discover the <font color="#FCB11C">knowledge of God</font>.<br />
+6 For the LORD gives <font color="#A2CF49">wisdom</font>;<br />
+From His mouth come <font color="#FCB11C">knowledge</font> and <font color="#CF8B03">understanding</font>.<br />
+7 He stores up <font color="#A2CF49">sound wisdom</font> for the upright;<br />
+He is a shield to those who walk in integrity,<br />
+8 Guarding the paths of <font color="#49BBD1">justice</font>,<br />
+And He preserves the way of His godly ones.<br />
+9 Then you will <font color="#608F3D">discern</font> righteousness and <font color="#49BBD1">justice</font><br />
+And equity and every good course.<br />
+10 For <font color="#A2CF49">wisdom</font> will enter your heart<br />
+And <font color="#FCB11C">knowledge</font> will be pleasant to your soul;<br />
+11 Discretion will guard you,<br />
+<font color="#CF8B03">Understanding</font> will watch over you,<br />
+12 To deliver you from the way of evil,<br />
 From the man who speaks perverse things;
 
 Another term that shows up in these verses is the fear of the Lord. Here we can see more verses and what they say.

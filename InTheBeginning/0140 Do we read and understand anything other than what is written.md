@@ -100,10 +100,10 @@ Based on this text we can read that the spirit is part of the soul like the marr
 >And <font color="orange">you were dead</font> in your trespasses and sins,
 
 ##### Isa 42:5
-> Thus says God the LORD,
-  Who created the heavens and stretched them out,
-  Who spread out the earth and its offspring,
-  Who gives <font color="orange">breath</font> to the people on it
+> Thus says God the LORD,<br />
+  Who created the heavens and stretched them out,<br />
+  Who spread out the earth and its offspring,<br />
+  Who gives <font color="orange">breath</font> to the people on it<br />
   <font color="orange">And <strong>spirit</strong></font> to those who walk in it,
 
 ##### Eze 11:19
@@ -121,12 +121,12 @@ Based on this text we can read that the spirit is part of the soul like the marr
 >11 Then He said to me, “Son of man, these bones are the whole house of Israel; behold, they say, ‘<font color="green">Our bones are dried up and our hope has perished. We are completely cut off.</font>’ 12 Therefore prophesy and say to them, ‘Thus says the Lord GOD, “Behold, I will open your graves and cause you to come up out of your graves, My people; and I will bring you into the land of Israel. 13 Then you will know that I am the LORD, when I have opened your graves and caused you to come up out of your graves, My people. 14 <font color="orange">I will put My Spirit within you and you will come to life</font>, and I will place you on your own land. <font color="orange">Then you will know that I, the LORD, have spoken and done it,</font>” declares the LORD.’ ”
 
 ##### Rev 3:1
->“To the angel of the church in Sardis write:
+>“To the angel of the church in Sardis write:<br />
 He who has the seven Spirits of God and the seven stars, says this: ‘<font color="orange">I know your deeds</font>, that you have a name that <font color="orange">you are alive, but you are dead</font>.
 
 
 ### Spiritual Death
-Happened in the same day Adam ate the fruit of the tree of knowledge of good and evil.
+Happened in the same day Adam ate the fruit of the tree of knowledge of good and evil.<br />
 We become spiritually alive with our new birth from the Holy Spirit when we are saved by Jesus.
 
 ##### Gen 2:15
@@ -154,16 +154,11 @@ Who do you believe? God or the serpent?
 
 
 ### Conclusion
-We can clearly understand the new birth Jesus talked about. It was a spiritual birth, necessary because of spiritual death. We can clearly understand the new spirit God promised. Salvation becomes very clear when we understand what happened to Adam, and consequently to us, when we read and understand what is written.
-
-We can see very clearly too that what God told Adam surely happened in the same day.
-
-To believe in God is to believe in His Word. To believe in God's Word is to believe in Him. You can't believe in God and disbelieve His Word at the same time. They are inseparable.
-
-We should focus on reading and understanding. If we lack understanding let's ask God. 
-
-Let's make sure we seek God's help to know how to study His Word. Being careful to not add to or remove from it, and to read and understand what is plainly written.
-
+We can clearly understand the new birth Jesus talked about. It was a spiritual birth, necessary because of spiritual death. We can clearly understand the new spirit God promised. Salvation becomes very clear when we understand what happened to Adam, and consequently to us, when we read and understand what is written.<br />
+We can see very clearly too that what God told Adam surely happened in the same day.<br />
+To believe in God is to believe in His Word. To believe in God's Word is to believe in Him. You can't believe in God and disbelieve His Word at the same time. They are inseparable.<br />
+We should focus on reading and understanding. If we lack understanding let's ask God.<br />
+Let's make sure we seek God's help to know how to study His Word. Being careful to not add to or remove from it, and to read and understand what is plainly written.<br />
 Creating a method to make sense of the Bible doesn't help but just adds to it. We will study in detail how to get understanding, discernment, wisdom, and the knowledge of God. As a preview you can look at Prov 2.
 
 

@@ -23,7 +23,7 @@ We are born again by faith in Him.
 >So <font color="orange">give Your servant an understanding heart</font> <font color="green">to judge</font> Your people <font color="green">to discern between good and evil</font>. For <font color="orange">who is able to judge</font> this great people of Yours?”
 
 ##### Prov 2:6 
->For <font color="orange">the LORD gives wisdom</font>;
+>For <font color="orange">the LORD gives wisdom</font>;<br />
       <font color="orange">From His mouth</font> come knowledge and understanding.
 
 ##### Prov 2:9 
@@ -33,11 +33,11 @@ We are born again by faith in Him.
       And knowledge will be pleasant to your soul;
 
 ##### Prov 3:5
->5 <font color="orange">Trust in the LORD with all your heart
-      And do not lean on your own understanding</font>.
-      6 In all your ways acknowledge Him,
-      And He will make your paths straight.
-      7 <font color="orange">Do not be wise in your own eyes</font>;
+>5 <font color="orange">Trust in the LORD with all your heart<br />
+      And do not lean on your own understanding</font>.<br />
+      6 In all your ways acknowledge Him,<br />
+      And He will make your paths straight.<br />
+      7 <font color="orange">Do not be wise in your own eyes</font>;<br />
       <font color="green">Fear the LORD</font> and turn away from evil.
 
 ##### Dan 10:12
@@ -108,18 +108,18 @@ We are born again by faith in Him.
 >20 If you have died with Christ to the elementary principles of the world, why, as if you were living in the world, <font color="orange">do you submit yourself to decrees, such as, 21 “Do not handle, do not taste, do not touch!</font>” 22 (which all refer to things destined to perish with use)—<font color="orange">in accordance with the commandments and teachings of men?</font> 23 These are matters which <font color="orange">have, to be sure, the appearance of wisdom in self-made religion and self-abasement and severe treatment of the body</font>, but <font color="orange">are of no value against fleshly indulgence</font>.
 
 ##### Psalm 81:11-13
-  >11 “But <font color="orange">My people did not listen to My voice</font>,
-  And Israel <font color="orange">did not obey Me</font>.
-  12 “<font color="orange">So I gave them over to the stubbornness of their heart,
-  To walk in their own devices</font>.
-  13 “Oh that My people would <font color="orange">listen to Me</font>,
+  >11 “But <font color="orange">My people did not listen to My voice</font>,<br />
+  And Israel <font color="orange">did not obey Me</font>.<br />
+  12 “<font color="orange">So I gave them over to the stubbornness of their heart,<br />
+  To walk in their own devices</font>.<br />
+  13 “Oh that My people would <font color="orange">listen to Me</font>,<br />
   That Israel would <font color="orange">walk in My ways</font>!
 
 ##### Jeremiah 8:9
->9 “The wise men are put to shame,
-      They are dismayed and caught;
-      Behold, they <font color="orange">have rejected the word of the LORD</font>,
-      And <font color="orange">what kind of wisdom do they have?</font>
+>9 “The wise men are put to shame,<br />
+      They are dismayed and caught;<br />
+      Behold, they <font color="orange">have rejected the word of the LORD</font>,<br />
+      And <font color="orange">what kind of wisdom do they have?</font><br />
 
 ##### 1 Corinthians 2:14-15
 >14 But a <font color="orange">natural man does not accept the things of the Spirit of God, for they are foolishness to him</font>; and he <font color="orange">cannot understand them</font>, because <font color="orange">they are spiritually appraised</font>. 15 But he who is spiritual appraises all things, yet he himself is appraised by no one.
@@ -130,11 +130,11 @@ We are born again by faith in Him.
 #### Who do you trust?
 
 ##### Proverbs 3:5-7
->5 <font color="orange">Trust in the LORD with all your heart</font>
-And <font color="orange">do not lean on your own understanding</font>.
-6 In <font color="orange">all your ways acknowledge Him</font>,
-And <font color="orange">He will make your paths straight</font>.
-7 <font color="orange">Do not be wise in your own eyes</font>;
+>5 <font color="orange">Trust in the LORD with all your heart</font><br />
+And <font color="orange">do not lean on your own understanding</font>.<br />
+6 In <font color="orange">all your ways acknowledge Him</font>,<br />
+And <font color="orange">He will make your paths straight</font>.<br />
+7 <font color="orange">Do not be wise in your own eyes</font>;<br />
 <font color="orange">Fear the LORD and turn away from evil</font>.
 
 Also: 
@@ -169,28 +169,23 @@ We train in His Word to discern good and evil. By trusting in Him and not in our
 >You shall <font color="orange">not add to the word</font> which I am commanding you, <font color="orange">nor take away from it</font>, <font color="orange">that you may keep the commandments of the LORD your God</font> which I command you.
 
 ##### Prov 30:5-6
->5 <font color="orange">Every</font> word of God is <font color="orange">tested</font>;
-<font color="orange">He</font> is a shield to those who <font color="orange">take refuge</font> in Him.
-6 Do <font color="orange">not add to His words</font>
+>5 <font color="orange">Every</font> word of God is <font color="orange">tested</font>;<br />
+<font color="orange">He</font> is a shield to those who <font color="orange">take refuge</font> in Him.<br />
+6 Do <font color="orange">not add to His words</font><br />
 Or <font color="orange">He will reprove you</font>, and you will <font color="orange">be proved a liar</font>.
 
 ##### 2 Cor 1:13
 >For we are <font color="orange">not writing to you anything other than what you read and understand</font> and I hope you will fully understand, and I hope <font color="orange">you will understand</font> until the end;
 
-Why is it so important to not add to or remove from His Word? Let's get into details in our next study
+*Why is it so important to not add to or remove from His Word? Let's get into details in our next study*
 
 
 ### Closing thoughts
-Are we dependent on Him and do we accept His will, or do we live according to our own will?
-
-Where do we find answers to life?
-
-Do we seek God or our own ideas, when going to His Word?
-
-Do we add to or remove from it?
-
-Are we judged by His Word, or do we judge His Word (Him)?
-
+Are we dependent on Him and do we accept His will, or do we live according to our own will?<br />
+Where do we find answers to life?<br />
+Do we seek God or our own ideas, when going to His Word?<br />
+Do we add to or remove from it?<br />
+Are we judged by His Word, or do we judge His Word (Him)?<br />
 What are other areas in which we are adding to or removing from His Word and not even noticing?
 
 

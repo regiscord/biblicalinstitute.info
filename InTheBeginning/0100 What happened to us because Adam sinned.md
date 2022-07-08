@@ -54,10 +54,11 @@ Adam and Eve both disobeyed God*
 >8 They heard the sound of the LORD God walking in the garden in the cool of the day, and the man and his wife <font color="orange">hid themselves from the presence of the LORD God</font> among the trees of the garden. 9 Then the LORD God called to the man, and said to him, “Where are you?” 10 He said, “I heard the sound of You in the garden, and <font color="orange">I was afraid</font> because I was naked; so I hid myself.”
 
 *The consequence:
+
 **Spiritual death**
-	Happened in the same day, like God warned
-	Separation from God	
-	Independence from God
+- Happened in the same day, like God warned
+- Separation from God
+- Independence from God
 Fear*
 
 
@@ -93,8 +94,8 @@ Both shifted the blame to somebody else, and Adam ultimately blamed God.
 *We are born spiritually dead.
 
 We think we are gods, knowing good and evil.
-	We trust ourselves and not God.
-	We judge God.
+- We trust ourselves and not God.
+- We judge God.
 
 We are tempted by the lust of our eyes, and flesh, and pride of life.
 
@@ -104,12 +105,9 @@ We search for knowledge and understanding in our own ways (based on what we thin
 
 
 #### Why is it so hard to know the truth?
-*Like Adam, Eve, and Satan, we add to or remove from what God says.
-
-We don’t give importance to what He says.
-
-We don’t trust (have faith) in what He says.
-
+*Like Adam, Eve, and Satan, we add to or remove from what God says.<br />
+We don’t give importance to what He says.<br />
+We don’t trust (have faith) in what He says.<br />
 We don’t accept what God says or His will.*
 
 
