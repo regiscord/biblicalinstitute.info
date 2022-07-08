@@ -36,8 +36,7 @@ And He preserves the way of His godly ones.<br />
 And equity and every good course.<br />
 10 For <font color="#A2CF49">wisdom</font> will enter your heart<br />
 And <font color="#FCB11C">knowledge</font> will be pleasant to your soul;<br />
-11 Discretion will guard you,<br />
-<font color="#CF8B03">Understanding</font> will watch over you,<br />
+11 Discretion will guard you,<br /><font color="#CF8B03">Understanding</font> will watch over you,<br />
 12 To deliver you from the way of evil,<br />
 From the man who speaks perverse things;
 
