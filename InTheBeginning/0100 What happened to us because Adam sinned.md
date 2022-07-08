@@ -49,15 +49,16 @@ Lust of the eyes, lust of the flesh, and pride of life.<br />
 Adam and Eve both disobeyed God*
 
 
+### The consequence:
+
 ##### Genesis 3:7
 >7 Then the <font color="orange">eyes of both of them were opened</font>, and they <font color="orange">knew that they were naked</font>; and they sewed fig leaves together and made themselves loin coverings.
 >8 They heard the sound of the LORD God walking in the garden in the cool of the day, and the man and his wife <font color="orange">hid themselves from the presence of the LORD God</font> among the trees of the garden. 9 Then the LORD God called to the man, and said to him, “Where are you?” 10 He said, “I heard the sound of You in the garden, and <font color="orange">I was afraid</font> because I was naked; so I hid myself.”
 
-*The consequence:
 **Spiritual death**<br />
-- Happened in the same day, like God warned
-- Separation from God
-- Independence from God
+*Happened in the same day, like God warned<br />
+Separation from God<br />
+Independence from God<br />
 Fear*
 
 
