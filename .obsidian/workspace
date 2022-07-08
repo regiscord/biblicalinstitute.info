@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "InTheBeginning/0160 How to discern between good and evil.md",
+            "file": "InTheBeginning/0100 What happened to us because Adam sinned.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "InTheBeginning/0160 How to discern between good and evil.md",
+            "file": "InTheBeginning/0100 What happened to us because Adam sinned.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InTheBeginning/0160 How to discern between good and evil.md",
+                "file": "InTheBeginning/0100 What happened to us because Adam sinned.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,10 +101,10 @@
   },
   "active": "5a319cdbb2100128",
   "lastOpenFiles": [
+    "InTheBeginning/0100 What happened to us because Adam sinned.md",
     "InTheBeginning/0160 How to discern between good and evil.md",
     "InTheBeginning/0140 Do we read and understand anything other than what is written.md",
     "InTheBeginning/0120 How did God resolve the cursed inheritance.md",
-    "InTheBeginning/0100 What happened to us because Adam sinned.md",
     "index.md",
     "Bible/Principles on how to study the Bible.md"
   ]
