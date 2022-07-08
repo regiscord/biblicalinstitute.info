@@ -93,9 +93,7 @@ Both shifted the blame to somebody else, and Adam ultimately blamed God.
 *We are born spiritually dead.
 
 We think we are gods, knowing good and evil.
-
 	We trust ourselves and not God.
-
 	We judge God.
 
 We are tempted by the lust of our eyes, and flesh, and pride of life.
